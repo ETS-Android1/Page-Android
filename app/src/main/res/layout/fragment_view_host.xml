@@ -239,7 +239,7 @@
                 android:textColor="#046bf1"
                 android:textSize="20sp"
                 android:textStyle="bold"
-                tools:text="Krishna-Mac is Offline" />
+                tools:text="Vyjayanthi-Mac is Offline" />
 
             <TextView
                 android:layout_width="wrap_content"
