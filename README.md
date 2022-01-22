@@ -14,7 +14,7 @@ Support for more devices and platforms will be added on a best-effort basis. Rea
 
 ## Contributing
 
-Page-Android is built with Room, LiveData and based on the MVVM architecture. I've kept the code as clean as possible and well-commented so you shouldn't have trouble understanding it.
+Page-Android is built with Room, LiveData and based on the MVVM architecture. The code is kept as clean as possible and well-commented so you shouldn't have trouble understanding it.
 
 The server implementation is currently built with Python but feel free to port it to other languages for whatever reasons you find valid.
 
